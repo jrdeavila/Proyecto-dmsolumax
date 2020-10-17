@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAlYuKF4CNVdUlDbdkaiGFQ6dtzb4HBl+V/VTKDANCiFTrSnm1VDOwVQTMygjDv4Ea9DddN2nLsy4ewF6/TEhQ==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\C#\\Proyecto\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moren.LAPTOP-SHGMIPNO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\moren.LAPTOP-SHGMIPNO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.pdb
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\Entity.dll
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Escritorio\c#\Proyecto\BLL\bin\Debug\netstandard2.0\Entity.pdb
+D:\Escritorio\c#\Proyecto\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete

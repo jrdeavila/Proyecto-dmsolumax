@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIbXQR/3i+2Ki7wDwZsPiKrqNwrZxOfzhrSyvacXrwEzwfdbRm0iMxXQhtWbgF6qid80m+trHK7pFg4CiMGvwg==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\C#\\Proyecto\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moren.LAPTOP-SHGMIPNO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\moren.LAPTOP-SHGMIPNO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
