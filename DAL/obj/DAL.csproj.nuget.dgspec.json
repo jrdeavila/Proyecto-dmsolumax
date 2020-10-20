@@ -1,34 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\C#\\Proyecto\\DAL\\DAL.csproj": {}
+    "/home/jose/Escritorio/Proyecto-dmsolumax/DAL/DAL.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\C#\\Proyecto\\DAL\\DAL.csproj": {
+    "/home/jose/Escritorio/Proyecto-dmsolumax/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\C#\\Proyecto\\DAL\\DAL.csproj",
+        "projectUniqueName": "/home/jose/Escritorio/Proyecto-dmsolumax/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Escritorio\\C#\\Proyecto\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\moren.LAPTOP-SHGMIPNO\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\C#\\Proyecto\\DAL\\obj\\",
+        "projectPath": "/home/jose/Escritorio/Proyecto-dmsolumax/DAL/DAL.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/Escritorio/Proyecto-dmsolumax/DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moren.LAPTOP-SHGMIPNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Escritorio\\C#\\Proyecto\\Entity\\Entity.csproj": {
-                "projectPath": "D:\\Escritorio\\C#\\Proyecto\\Entity\\Entity.csproj"
+              "/home/jose/Escritorio/Proyecto-dmsolumax/Entity/Entity.csproj": {
+                "projectPath": "/home/jose/Escritorio/Proyecto-dmsolumax/Entity/Entity.csproj"
               }
             }
           }
@@ -47,6 +45,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [
@@ -59,28 +61,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Escritorio\\C#\\Proyecto\\Entity\\Entity.csproj": {
+    "/home/jose/Escritorio/Proyecto-dmsolumax/Entity/Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\C#\\Proyecto\\Entity\\Entity.csproj",
+        "projectUniqueName": "/home/jose/Escritorio/Proyecto-dmsolumax/Entity/Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "D:\\Escritorio\\C#\\Proyecto\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\moren.LAPTOP-SHGMIPNO\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\C#\\Proyecto\\Entity\\obj\\",
+        "projectPath": "/home/jose/Escritorio/Proyecto-dmsolumax/Entity/Entity.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/Escritorio/Proyecto-dmsolumax/Entity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\moren.LAPTOP-SHGMIPNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -102,6 +102,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [
@@ -114,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
         }
       }
     }
