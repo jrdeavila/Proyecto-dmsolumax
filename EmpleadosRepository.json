@@ -1,0 +1,30 @@
+[
+  {
+    "SaldoDiario": 50000.0,
+    "Nombre": "jose ricardo",
+    "Cedula": 1003316620,
+    "Edad": 19,
+    "Sexo": "M"
+  },
+  {
+    "SaldoDiario": 80000.0,
+    "Nombre": "rodrigo andres",
+    "Cedula": 1065636960,
+    "Edad": 29,
+    "Sexo": "M"
+  },
+  {
+    "SaldoDiario": 60000.0,
+    "Nombre": "andres felipe",
+    "Cedula": 1066837298,
+    "Edad": 23,
+    "Sexo": "M"
+  },
+  {
+    "SaldoDiario": 100000.0,
+    "Nombre": "jose gregorio",
+    "Cedula": 77176220,
+    "Edad": 46,
+    "Sexo": "M"
+  }
+]

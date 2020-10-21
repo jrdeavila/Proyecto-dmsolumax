@@ -36,3 +36,4 @@ D:/Escritorio/c#/Proyecto/Presentacion/obj/Debug/netcoreapp3.1/Presentacion.cspr
 /home/jose/Escritorio/Proyecto-dmsolumax/Presentacion/obj/Debug/netcoreapp3.1/Presentacion.csproj.CopyComplete
 /home/jose/Escritorio/Proyecto-dmsolumax/Presentacion/obj/Debug/netcoreapp3.1/Presentacion.dll
 /home/jose/Escritorio/Proyecto-dmsolumax/Presentacion/obj/Debug/netcoreapp3.1/Presentacion.pdb
+/home/jose/Escritorio/Proyecto-dmsolumax/Presentacion/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

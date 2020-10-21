@@ -1,7 +1,6 @@
 ﻿using Entity;
 using System.Collections.Generic;
 using Newtonsoft.Json;
-using System.IO;
 using System;
 
 namespace DAL
@@ -12,16 +11,29 @@ namespace DAL
         
         public EmpleadoRepository() : base()
         {
-            Path = "EmpleadosRepository.json";
         }
         public override void GenerarSerialJson()
         {
-            throw new NotImplementedException();
+            SerialJson = JsonConvert.SerializeObject(EmpleadosRegistrados, Formatting.Indented);
         }
 
         public override void DeserializarObjeto()
         {
-            throw new NotImplementedException();
+            try
+            {
+                EmpleadosRegistrados = JsonConvert.DeserializeObject<List<Empleado>>(SerialJson);
+                EstadoDatos = true;
+            }
+            catch(Exception)
+            {
+                EstadoDatos = false;
+                EmpleadosRegistrados = null;
+            }
+        }
+
+        public override void DeclararElPath()
+        {
+            Path = "EmpleadosRepository.json";
         }
     }
 }

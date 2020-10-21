@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 namespace Entity
 {
-    public class Empleado : Persona
+    public class Empleado : Persona, IDato
     {
         public double SaldoDiario {get;set;}
         [JsonConstructor]
@@ -10,5 +10,9 @@ namespace Entity
             SaldoDiario = saldoDiario;
         }
 
+        public long CodigoDato()
+        {
+            return Cedula;
+        }
     }
 }
